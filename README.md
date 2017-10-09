@@ -1,6 +1,8 @@
 # Machine Learning Engineer Nanodegree
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
+### Deep Learning in Time Series Prediction
+
 
 This project aims to use machine learning to try to solve a Kaggle competition problem - Web Traffic Time Series Forecasting (https://www.kaggle.com/c/web-traffic-time-series-forecasting). 
 
@@ -30,6 +32,9 @@ https://www.kaggle.com/c/web-traffic-time-series-forecasting/data
 #### keras
 	It is used to build neural network architecture, train and save the model, and predict new dataset like using models, layers, callbacks
 
+#### matplotlib
+	It is used to visualize time series and other figures.
+	
 
 ## Proposal review
 
