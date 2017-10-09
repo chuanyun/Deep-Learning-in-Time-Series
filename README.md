@@ -16,7 +16,7 @@ The dataset is from a Kaggle competition and here is the link:
 https://www.kaggle.com/c/web-traffic-time-series-forecasting/data
 
 
-## python libraries
+## Python libraries
 
 #### pandas
 	It is mainly used to import, save, join and analyze dataframes like using read_csv, DataFrame, merge, etc.
