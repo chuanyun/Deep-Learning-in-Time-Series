@@ -4,12 +4,15 @@
 
 This project aims to use machine learning to try to solve a Kaggle competition problem - Web Traffic Time Series Forecasting (https://www.kaggle.com/c/web-traffic-time-series-forecasting). 
 
-A report is generated in PDF file. All the python code is implemented in the IPython notebook.
+A report is generated in the PDF file. 
+
+All the python code is implemented in the IPython notebook.
 
 
 ## Dataset
 
 The dataset is from a Kaggle competition and here is the link:
+
 https://www.kaggle.com/c/web-traffic-time-series-forecasting/data
 
 
