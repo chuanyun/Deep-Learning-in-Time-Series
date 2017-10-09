@@ -2,7 +2,7 @@
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
 
-This project aims to use machine learning to try to solve a Kaggle competition problem -? Web Traffic Time Series Forecasting (https://www.kaggle.com/c/web-traffic-time-series-forecasting). 
+This project aims to use machine learning to try to solve a Kaggle competition problem - Web Traffic Time Series Forecasting (https://www.kaggle.com/c/web-traffic-time-series-forecasting). 
 
 A report is generated in PDF file. All the python code is implemented in the IPython notebook.
 
