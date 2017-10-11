@@ -32,7 +32,8 @@ It is mainly used to transform array like taking log() and exp().
 
 Its model evaluation metrics and preprocessing functions are used.
 	
-#### keras
+
+- [Keras](https://keras.io/)
 
 It is used to build neural network architecture, train and save the model, and predict new dataset like using models, layers, callbacks, etc..
 
