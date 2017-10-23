@@ -1,10 +1,7 @@
-# Machine Learning Engineer Nanodegree
-## Specializations
-## Project: Capstone Proposal and Capstone Project
 ## Deep Learning in Multiple Multistep Time Series Prediction
 
 
-This project aims to use machine learning to try to solve a Kaggle competition problem - Web Traffic Time Series Forecasting (https://www.kaggle.com/c/web-traffic-time-series-forecasting). 
+This project aims to use deep learning to try to solve a Kaggle competition problem - Web Traffic Time Series Forecasting (https://www.kaggle.com/c/web-traffic-time-series-forecasting). 
 
 A report is generated in the PDF file. 
 
