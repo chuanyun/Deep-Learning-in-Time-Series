@@ -39,6 +39,3 @@ It is used to build neural network architecture, train and save the model, and p
 It is used to visualize time series and other figures.
 	
 
-## Proposal review
-
-https://review.udacity.com/#!/reviews/733506
