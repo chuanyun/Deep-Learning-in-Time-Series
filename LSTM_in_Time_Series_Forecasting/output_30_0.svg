@@ -1,0 +1,41 @@
+<svg height="264pt" viewBox="0.00 0.00 167.48 264.00" width="167pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" id="graph0" transform="scale(1 1) rotate(0) translate(4 260)">
+<title>G</title>
+<polygon fill="white" points="-4,4 -4,-260 163.479,-260 163.479,4 -4,4" stroke="none"/>
+<!-- 4449339856 -->
+<g class="node" id="node1"><title>4449339856</title>
+<polygon fill="none" points="0,-219.5 0,-255.5 159.479,-255.5 159.479,-219.5 0,-219.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="79.7397" y="-233.3">lstm_2_input: InputLayer</text>
+</g>
+<!-- 4449341136 -->
+<g class="node" id="node2"><title>4449341136</title>
+<polygon fill="none" points="30.3174,-146.5 30.3174,-182.5 129.162,-182.5 129.162,-146.5 30.3174,-146.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="79.7397" y="-160.3">lstm_2: LSTM</text>
+</g>
+<!-- 4449339856&#45;&gt;4449341136 -->
+<g class="edge" id="edge1"><title>4449339856-&gt;4449341136</title>
+<path d="M79.7397,-219.313C79.7397,-211.289 79.7397,-201.547 79.7397,-192.569" fill="none" stroke="black"/>
+<polygon fill="black" points="83.2398,-192.529 79.7397,-182.529 76.2398,-192.529 83.2398,-192.529" stroke="black"/>
+</g>
+<!-- 4449338384 -->
+<g class="node" id="node3"><title>4449338384</title>
+<polygon fill="none" points="15.938,-73.5 15.938,-109.5 143.542,-109.5 143.542,-73.5 15.938,-73.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="79.7397" y="-87.3">dropout_2: Dropout</text>
+</g>
+<!-- 4449341136&#45;&gt;4449338384 -->
+<g class="edge" id="edge2"><title>4449341136-&gt;4449338384</title>
+<path d="M79.7397,-146.313C79.7397,-138.289 79.7397,-128.547 79.7397,-119.569" fill="none" stroke="black"/>
+<polygon fill="black" points="83.2398,-119.529 79.7397,-109.529 76.2398,-119.529 83.2398,-119.529" stroke="black"/>
+</g>
+<!-- 4449337424 -->
+<g class="node" id="node4"><title>4449337424</title>
+<polygon fill="none" points="27.6138,-0.5 27.6138,-36.5 131.866,-36.5 131.866,-0.5 27.6138,-0.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="79.7397" y="-14.3">dense_2: Dense</text>
+</g>
+<!-- 4449338384&#45;&gt;4449337424 -->
+<g class="edge" id="edge3"><title>4449338384-&gt;4449337424</title>
+<path d="M79.7397,-73.3129C79.7397,-65.2895 79.7397,-55.5475 79.7397,-46.5691" fill="none" stroke="black"/>
+<polygon fill="black" points="83.2398,-46.5288 79.7397,-36.5288 76.2398,-46.5289 83.2398,-46.5288" stroke="black"/>
+</g>
+</g>
+</svg>
