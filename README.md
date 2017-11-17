@@ -7,7 +7,7 @@ A report is generated in the PDF file.
 
 All the python code is implemented in the IPython notebook.
 
-**Note: ** 
+**Note:** 
 The competiton is closed on Nov. 13th 2017. The result above achieved top 2% in the leaderboard. Great thanks to Kaggle and Google research for organizing this interesting and challenging competition. 
 
 
