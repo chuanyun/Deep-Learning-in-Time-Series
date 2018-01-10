@@ -3,7 +3,7 @@
 
 This project aims to use deep learning to try to solve a Kaggle competition problem - Web Traffic Time Series Forecasting (https://www.kaggle.com/c/web-traffic-time-series-forecasting). 
 
-A report is generated in the PDF file. 
+A report is generated in the PDF file. [Deep Learning in Multiple Multistep Time Series Prediction](https://arxiv.org/abs/1710.04373)
 
 All the python code is implemented in the IPython notebook.
 
